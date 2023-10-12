@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![CatGIF](https://github.com/caroltmaciel/caroltmaciel/assets/67395395/50b4193d-35f5-4b9d-86f5-d7bf993d80c4)
-🌱 I’m currently learning HTML, CSS, Java, Git and AWS.
+- 🌱 I’m currently learning HTML, CSS, Java, Git and AWS.
 
 
 - 📫 How to reach me: anacarolinamaciel15@gmail.com.
