@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning HTML, CSS, Java, Git and AWS.
 
 
-- 📫 How to reach me: anacarolinamaciel15@gmail.com.
-
 <img height="180em" src="https://github.com/caroltmaciel/caroltmaciel/assets/67395395/34a91c36-d9fc-4684-87ea-a19c9439a0b8"/>
 
 - ⚡ Fun fact: I studied law before learning programming.
