@@ -2,7 +2,7 @@
 
 <img height="180em" src="https://github.com/caroltmaciel/caroltmaciel/assets/67395395/50b4193d-35f5-4b9d-86f5-d7bf993d80c4"/>
 
-- 🌱 I’m currently learning HTML, CSS, Java, Git and AWS.
+- 🌱 I’m currently learning HTML, CSS, Java, and Git.
 
 
 <img height="180em" src="https://github.com/caroltmaciel/caroltmaciel/assets/67395395/34a91c36-d9fc-4684-87ea-a19c9439a0b8"/>
